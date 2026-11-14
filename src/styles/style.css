@@ -149,13 +149,13 @@ input:-webkit-autofill{
 }
 
 @media screen and (max-width: 500px) {
-    #form_container {
+    #form-container {
         width: 100%;
         min-height: 100vh;
         padding: 32px;
     }
 
-    #input_container {
+    #input-container {
         display: flex;
         flex-direction: column;
         gap: 38px;
